@@ -1,6 +1,6 @@
-# Video Object Tracking with AutoDetectionModel
+# Video Object Tracking
 
-This project demonstrates how to track specific objects in a video using the AutoDetectionModel from the sahi library. The script track_video.py uses computer vision techniques to detect and annotate objects such as persons, boats, birds, and surfboards in a video.
+This project demonstrates how to track specific objects in a video using the AutoDetectionModel from the `sahi` library. The script `track_video.py` uses computer vision techniques to detect and annotate objects such as persons, boats, birds, and surfboards in a video.
 
 ## Usage
 
